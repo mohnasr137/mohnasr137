@@ -1,4 +1,3 @@
-
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
@@ -22,6 +21,9 @@
 <a href="https://www.facebook.com/profile.php?id=100035538612653&sk=about_overview&locale=ar_AR" target="_blank"  title="My Facebook Account"><img src="https://img.shields.io/badge/-Mohamed%20Nasr-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </a>
 <a href="https://codeforces.com/profile/mohnasr137" target="_blank" title="My CodeForces Account"><img src="https://img.shields.io/badge/-Mohamed%20Nasr-0077B5?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+<a href="https://komarev.com/ghpvc/?username=mohnasr137&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=mohnasr137&style=for-the-badge">
+</a>
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -38,8 +40,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohnasr137&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=mohnasr137&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mohnasr137&style=for-the-badge">
-</a>
+<img align="left" width="39%" src="https://github-readme-stats.vercel.app/api?username=mohnasr137&show_icons=true&theme=radical"/>
+<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohnasr137&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
+
