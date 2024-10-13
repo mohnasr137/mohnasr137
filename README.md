@@ -40,7 +40,7 @@
 
 
 
-<img align="left" width="39%" src="https://github-readme-stats.vercel.app/api?username=mohnasr137&show_icons=true&theme=radical"/>
-<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohnasr137&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" width="44.75%" src="https://github-readme-stats.vercel.app/api?username=mohnasr137&show_icons=true&theme=radical"/>
+<img align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohnasr137&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
 
