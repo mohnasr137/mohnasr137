@@ -1,46 +1,61 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<h1 align="center">Hi 👋, I'm Mohamed Nasr</h1>
+<h3 align="center">BackEnd Developer </h3>
 
-<h3 align="center">
-  Welcome to Mohamed Nasr's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+- 🌱 I’m currently learning **Backend Development Process**
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+- 💬 Ask me about **Node.js**
 
-- 🏢 I'm a Backend Developer.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Javascript, Node, Express, and MongoDB.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 📫 How to reach me **mohnasr113377@gmail.com**
 
-### Connect with Me :
+- ⚡ Fun fact **my perfect day would start and end with a cup of coffee**
 
-<a href="https://www.linkedin.com/in/mohamed-nasr-68b62b243/" target="_blank"  title="My Linkedin Account"><img src="https://img.shields.io/badge/-Mohamed%20Nasr-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100035538612653&sk=about_overview&locale=ar_AR" target="_blank"  title="My Facebook Account"><img src="https://img.shields.io/badge/-Mohamed%20Nasr-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-</a>
-<a href="https://codeforces.com/profile/mohnasr137" target="_blank" title="My CodeForces Account"><img src="https://img.shields.io/badge/-Mohamed%20Nasr-0077B5?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+<h3 align="left">Connect with me:</h3>
+
+
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-nasr-68b62b243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-nasr-68b62b243/" height="30" width="40" /></a>
+  
+<a href="https://www.facebook.com/profile.php?id=100035538612653&mibextid=gik2fB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed nasr" height="30" width="40" /></a>
+
 <a href="https://komarev.com/ghpvc/?username=mohnasr137&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=mohnasr137&style=for-the-badge">
 </a>
-
-
-### 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![C](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo)&nbsp;&nbsp;
-![C++](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=c++)&nbsp;
-![C++](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=c++)&nbsp;
-![C++](https://img.shields.io/badge/-MongoBD-05122A?style=flat&logo=c++)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<hr></hr>
+</p>
 
 
 
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%">
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,rust,cpp,clion,figma,html,css,javascript,ts,npm,nodejs,express,nestjs,postgres,mongodb,redis,vscode,postman,graphql,git,github,heroku,netlify,react,threejs,python,anaconda,tensorflow,flask,stackoverflow" />
+</div>
+<br>
 
-<img align="left" width="44.75%" src="https://github-readme-stats.vercel.app/api?username=mohnasr137&show_icons=true&theme=radical"/>
-<img align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohnasr137&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
 
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+
+
+<p align="center">
+<a href="https://github.com/mohnasr137/github-readme-stats"><img alt="Mohamed Nasr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohnasr137&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/mohnasr137/github-readme-stats"><img alt="Mohamed Nasr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohnasr137&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+
+
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohnasr137&theme=shadow-blue" alt="GitHub Streak" /></a>
+</p>
+
+
+
+<h3 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Unlock+the+secrets+of+my+code+vault+🗝️+💻;+Dive+in+and+explore+🌊;Thanks+for+visiting!+❤️">
+</h3>
