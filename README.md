@@ -21,7 +21,3 @@
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohnasr137&theme=shadow-blue" alt="GitHub Streak" /></a>
 </p>
-
-<h3 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Unlock+the+secrets+of+my+code+vault+🗝️+💻;+Dive+in+and+explore+🌊;Thanks+for+visiting!+❤️">
-</h3>
